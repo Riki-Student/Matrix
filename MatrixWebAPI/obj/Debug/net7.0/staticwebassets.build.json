@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PzVaMRCBbpzvlDkLCp8FX/Rx6x1VUsz2UqeoF4WJG48=",
+  "Source": "MatrixWebAPI",
+  "BasePath": "_content/MatrixWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
